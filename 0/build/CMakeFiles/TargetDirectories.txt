@@ -1,3 +1,0 @@
-/home/v/下载/HW/0/build/CMakeFiles/Transformation.dir
-/home/v/下载/HW/0/build/CMakeFiles/edit_cache.dir
-/home/v/下载/HW/0/build/CMakeFiles/rebuild_cache.dir

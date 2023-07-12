@@ -1,3 +1,0 @@
-/home/v/下载/HW/2/code/build/CMakeFiles/Rasterizer.dir
-/home/v/下载/HW/2/code/build/CMakeFiles/edit_cache.dir
-/home/v/下载/HW/2/code/build/CMakeFiles/rebuild_cache.dir
