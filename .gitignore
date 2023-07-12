@@ -33,3 +33,6 @@ build/
 # Ignore all local history of files
 .history
 .ionide
+
+### mac OS
+.DS_Store 
