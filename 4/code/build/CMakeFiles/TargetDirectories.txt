@@ -1,0 +1,3 @@
+/home/v/下载/HW/4/code/build/CMakeFiles/BezierCurve.dir
+/home/v/下载/HW/4/code/build/CMakeFiles/edit_cache.dir
+/home/v/下载/HW/4/code/build/CMakeFiles/rebuild_cache.dir
